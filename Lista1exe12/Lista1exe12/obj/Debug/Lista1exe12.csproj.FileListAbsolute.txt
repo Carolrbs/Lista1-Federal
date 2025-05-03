@@ -1,0 +1,7 @@
+C:\Users\Ana_R\source\repos\Lista1exe12\Lista1exe12\bin\Debug\Lista1exe12.exe.config
+C:\Users\Ana_R\source\repos\Lista1exe12\Lista1exe12\bin\Debug\Lista1exe12.exe
+C:\Users\Ana_R\source\repos\Lista1exe12\Lista1exe12\bin\Debug\Lista1exe12.pdb
+C:\Users\Ana_R\source\repos\Lista1exe12\Lista1exe12\obj\Debug\Lista1exe12.csproj.AssemblyReference.cache
+C:\Users\Ana_R\source\repos\Lista1exe12\Lista1exe12\obj\Debug\Lista1exe12.csproj.CoreCompileInputs.cache
+C:\Users\Ana_R\source\repos\Lista1exe12\Lista1exe12\obj\Debug\Lista1exe12.exe
+C:\Users\Ana_R\source\repos\Lista1exe12\Lista1exe12\obj\Debug\Lista1exe12.pdb
